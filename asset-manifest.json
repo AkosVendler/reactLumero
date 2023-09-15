@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactLumero/static/css/main.2fb5ad22.css",
+    "main.js": "/reactLumero/static/js/main.bd38bb67.js",
+    "static/js/787.02ff3193.chunk.js": "/reactLumero/static/js/787.02ff3193.chunk.js",
+    "static/media/landingbg.png": "/reactLumero/static/media/landingbg.5f8dc47b73fc3441f2c6.png",
+    "static/media/logo.svg": "/reactLumero/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactLumero/index.html",
+    "main.2fb5ad22.css.map": "/reactLumero/static/css/main.2fb5ad22.css.map",
+    "main.bd38bb67.js.map": "/reactLumero/static/js/main.bd38bb67.js.map",
+    "787.02ff3193.chunk.js.map": "/reactLumero/static/js/787.02ff3193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb5ad22.css",
+    "static/js/main.bd38bb67.js"
+  ]
+}
