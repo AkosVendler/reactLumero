@@ -1,2 +1,0 @@
-# reactLumero
-Lumero v2💻
